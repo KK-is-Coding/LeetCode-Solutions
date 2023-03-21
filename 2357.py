@@ -8,5 +8,4 @@ class Solution:
             x = min(nums)
             nums = list(map(lambda a: a-x, nums))
             counter += 1
-
         return counter
