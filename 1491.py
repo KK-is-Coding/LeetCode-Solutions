@@ -1,5 +1,5 @@
 # Average Salary Excluding the Minimum and Maximum Salary
-
+ 
 class Solution:
     def average(self, salary):
         salary.sort()
