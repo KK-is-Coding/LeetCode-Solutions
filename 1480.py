@@ -1,3 +1,4 @@
+# Running Sum of 1d Array
 class Solution:
     def runningSum(self, nums):
         sum = 0
